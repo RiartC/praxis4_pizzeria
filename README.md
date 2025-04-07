@@ -61,7 +61,7 @@ Kriterium --- Umsetzung
 
 Java Spring Boot Backend --- Eigene REST API für Speisekarte & Angebote
 
-Min. 2 externe Datenquellen ---	Wetter (OpenWeather), Maps
+Min. 2 externe Datenquellen ---	Wetter (OpenWeather), Maps, RSS
 
 Mashup-Logik & Kombination --- Speisekarte + Wetter + Lieferzeit-Prognose
 
